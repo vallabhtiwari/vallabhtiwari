@@ -7,8 +7,8 @@
     <h2>💫 About Me:<br></h2>
     <h5>
         <ul>
-            <li>I am a student at University of Delhi.</li>
-            <li>I like backend development.</li>
+            <li>🎓 I am a student at University of Delhi.</li>
+            <li>💻 I like backend development.</li>
         </ul>
      </h5>
 </div>
