@@ -8,7 +8,7 @@
         <ul>
             <li>🎓 I am a student at University of Delhi.</li>
             <li>💻 I like backend development.</li>
-            <li>⌨️ Builing myself to become an open-source developer...
+            <li>⌨️ Builing myself to become an open-source developer...</li>
         </ul>
 </div>
 
