@@ -1,10 +1,11 @@
-<div align="center" height="50%" width="50%">
+<div align="center" >
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
+<div align="center">
 # 💫 About Me:
 I am a student at University of Delhi.<br>I like backend development.<br>
-
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vallabhtiwari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vallabh__tiwari) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tiwarivallabh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vallabh__tiwari) 
@@ -15,9 +16,25 @@ I am a student at University of Delhi.<br>I like backend development.<br>
 ![](https://komarev.com/ghpvc/?username=vallabhtiwari&label=PROFILE+VIEWS)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vallabhtiwari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vallabhtiwari&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhtiwari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=vallabhtiwari&show_icons=true&locale=en&theme=tokyonight" alt="Vallabh's GitHub Stats" />               </td>
+            <td><img src="https://streak-stats.demolab.com/?user=vallabhtiwari&theme=tokyonight" alt="Vallabh's GitHub Stats" /></td>
+        </tr>
+    </thead>
+</table>
+
+ # Contribution graph
+ 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <th colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=vallabhtiwari&theme=tokyo-night" alt="Vallabh's contribution timeline" /></th>
+        </tr>
+    </tbody>
+</table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vallabhtiwari&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
