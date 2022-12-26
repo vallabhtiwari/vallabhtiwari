@@ -1,11 +1,11 @@
-<div align="center" >
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
 
-<h1>Hi there 👋, I am Vallabh</h1>
+<h1>Hi there 👋, I am Vallabh...</h1>
 <div>
     <h2>💫 About Me:<br></h2>
-    <h4>I am a student at University of Delhi.<br>I like backend development.<br></h4>
+    <h4>* I am a student at University of Delhi.<br>* I like backend development.<br></h4>
 </div>
 
 ## 🌐 Socials:
