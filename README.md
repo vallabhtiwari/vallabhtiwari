@@ -2,9 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-<div align="center">
-    <h2> 💫 About Me:</h2>
-    <h2>Hi there, I am Vallabh.<br>I am a student at University of Delhi.<br>I like backend development.<br></h2>
+<h1> 💫 About Me:</h1>
+<div>
+    <h2>Hi there 👋, I am Vallabh.<br>I am a student at University of Delhi.<br>I like backend development.<br></h2>
 </div>
 
 ## 🌐 Socials:
