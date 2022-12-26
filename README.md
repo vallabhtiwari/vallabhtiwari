@@ -5,7 +5,12 @@
 <h1>Hi there 👋, I am Vallabh...</h1>
 <div>
     <h2>💫 About Me:<br></h2>
-    <h4>* I am a student at University of Delhi.<br>* I like backend development.<br></h4>
+    <h5>
+        <ul>
+            <li>I am a student at University of Delhi.</li>
+            <li>I like backend development.</li>
+        </ul>
+     </h5>
 </div>
 
 ## 🌐 Socials:
