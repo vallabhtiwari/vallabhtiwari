@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Vallabh
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallabhtiwari)](https://github.com/anuraghazra/github-readme-stats)
+[![Vallabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallabhtiwari)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
