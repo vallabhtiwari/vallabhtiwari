@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-# 💫 About Me:
-I am a student at University of Delhi.<br>I like backend development.<br>
+### 💫 About Me:
+    <h2>I am a student at University of Delhi.<br>I like backend development.<br></h2>
 </div>
 
 ## 🌐 Socials:
@@ -25,24 +25,8 @@ I am a student at University of Delhi.<br>I like backend development.<br>
     </thead>
 </table>
 
- # Contribution graph
- 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tbody>
-        <tr>
-            <th colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=vallabhtiwari&theme=tokyo-night" alt="Vallabh's contribution timeline" /></th>
-        </tr>
-    </tbody>
-</table>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vallabhtiwari&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-[![](https://visitcount.itsvg.in/api?id=vallabhtiwari&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
