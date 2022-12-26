@@ -1,19 +1,64 @@
-### Hi there 👋, I am Vallabh
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+13827
+Fork on GitHub
+3679
 
-[![Vallabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallabhtiwari)](https://github.com/anuraghazra/github-readme-stats)
+back to edit
 
+copy-markdown
 
-<!--
-**vallabhtiwari/vallabhtiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+download markdown
 
-Here are some ideas to get you started:
+download backup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+preview
+<h1 align="center">Hi 👋, I'm Vallabh</h1>
+<h3 align="center">A student at University of Delhi</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vallabhtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="vallabhtiwari" /> </p>
+
+<p align="left"> <a href="https://twitter.com/vallabh__tiwari" target="blank"><img src="https://img.shields.io/twitter/follow/vallabh__tiwari?logo=twitter&style=for-the-badge" alt="vallabh__tiwari" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vallabh__tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vallabh__tiwari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vallabhtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vallabhtiwari" height="30" width="40" /></a>
+<a href="https://instagram.com/vallabh__tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vallabh__tiwari" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vallabhtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vallabhtiwari" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vallabhtiwari&show_icons=true&locale=en&layout=compact" alt="vallabhtiwari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vallabhtiwari&show_icons=true&locale=en" alt="vallabhtiwari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vallabhtiwari&" alt="vallabhtiwari" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
