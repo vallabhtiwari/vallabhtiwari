@@ -4,7 +4,8 @@
 
 <h1>Hi there 👋, I am Vallabh</h1>
 <div>
-    <h2>💫 About Me:<br>I am a student at University of Delhi.<br>I like backend development.<br></h2>
+    <h2>💫 About Me:<br></h2>
+    <h4>I am a student at University of Delhi.<br>I like backend development.<br></h4>
 </div>
 
 ## 🌐 Socials:
