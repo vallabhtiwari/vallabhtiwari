@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>
-
 <h1>Hi there 👋, I am Vallabh...</h1>
 <div>
     <h2>💫 About Me:<br></h2>
