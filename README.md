@@ -5,6 +5,7 @@
             <li>🎓 I am a student at University of Delhi.</li>
             <li>💻 I like backend development.</li>
             <li>⌨️ Builing myself to become an open-source developer...</li>
+            <li>😸 CSS doesn't likes me.</li>
         </ul>
 </div>
 
